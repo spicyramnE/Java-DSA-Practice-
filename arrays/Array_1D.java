@@ -1,3 +1,4 @@
+//this is a practice comment for git status check over and out
 package arrays;
 import java.util.*;
 public class Array_1D {
